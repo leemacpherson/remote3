@@ -1,3 +1,5 @@
+# This is the README for git hub too
+
 # React Router Netlify Template
 
 A modern, production-ready template for building full-stack React applications using React Router,
@@ -72,4 +74,5 @@ This template comes with [Tailwind CSS](https://tailwindcss.com/) already config
 ---
 
 Built with ❤️ using React Router.
+
 # remotes2
