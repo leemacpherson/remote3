@@ -128,6 +128,14 @@ export async function deleteContact(id: string) {
     notes:
       'To switch your Xfinity large button remote to English, press the Xfinity button, navigate to the Gear icon (Settings), select Language, then choose Menu Language and English, confirming with the OK button, or use voice by pressing the microphone and saying "Change language to English"',
   },
+  {
+    avatar: "https://helpwithapi.com/pictures/Silver-w-grey-OK.png",
+    first: "Silver with grey OK",
+    last: "Xfinity",
+    twitter: "https://helpwithapi.com/descriptions/large-button.txt",
+    notes:
+      "Press the Xfinity button on your remote. Highlight Settings (the gear icon) and press OK.The Main Menu is displayed, with the Settings at the lower right. You can get to Audio Language (SAP) Reset from Device Settings > Audio, Language, or Accessibility Settings. \nSelect one of them. \n Device Settings appears second in a vertically-scrolling list of options, just under Preferences. \nNavigate to Audio Language (SAP) Reset. Audio Language (SAP) Reset appears second in a vertically-scrolling list of three options, just under Bluetooth Devices.\nPress OK on your remote to clear your last chosen audio language and go back to the default language setting.\nThe Audio Language Reset confirmation screen is displayed.",
+  },
 ].forEach((contact) => {
   fakeContacts.create({
     ...contact,
