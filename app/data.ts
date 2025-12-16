@@ -102,7 +102,7 @@ export async function deleteContact(id: string) {
     last: "Xfinity",
     twitter: "https://helpwithapi.com/descriptions/XR11.txt",
     notes:
-      "To switch your Xfinity XR11 remote and X1 system to English, press the Xfinity button, navigate to the gear icon (Settings), select Language, choose Menu Language, then highlight and select English, and confirm with OK on the screen to apply changes.\n\nAfter your project has been imported and deployed, all subsequent pushes to branches other than the production branch along with pull requests will generate Preview Deployments, and all changes made to the Production Branch (commonly \“main\”) will result in a Production Deployment.",
+      "To switch your Xfinity XR11 remote and X1 system to English, press the Xfinity button, navigate to the gear icon (Settings), select Language, choose Menu Language, then highlight and select English, and confirm with OK on the screen to apply changes.\r\n\r\nAfter your project has been imported and deployed, all subsequent pushes to branches other than the production branch along with pull requests will generate Preview Deployments, and all changes made to the Production Branch (commonly \“main\”) will result in a Production Deployment.",
   },
   {
     avatar: "https://helpwithapi.com/pictures/XR15.png",
@@ -134,7 +134,7 @@ export async function deleteContact(id: string) {
     last: "Xfinity",
     twitter: "https://helpwithapi.com/descriptions/large-button.txt",
     notes:
-      "Press the Xfinity button on your remote. Highlight Settings (the gear icon) and press OK.The Main Menu is displayed, with the Settings at the lower right. You can get to Audio Language (SAP) Reset from Device Settings > Audio, Language, or Accessibility Settings. \nSelect one of them. \n Device Settings appears second in a vertically-scrolling list of options, just under Preferences. \nNavigate to Audio Language (SAP) Reset. Audio Language (SAP) Reset appears second in a vertically-scrolling list of three options, just under Bluetooth Devices.\nPress OK on your remote to clear your last chosen audio language and go back to the default language setting.\nThe Audio Language Reset confirmation screen is displayed.",
+      "Press the Xfinity button on your remote. Highlight Settings (the gear icon) and press OK.The Main Menu is displayed, with the Settings at the lower right. You can get to Audio Language (SAP) Reset from Device Settings > Audio, Language, or Accessibility Settings. \nSelect one of them. \r\n Device Settings appears second in a vertically-scrolling list of options, just under Preferences. \r\nNavigate to Audio Language (SAP) Reset. Audio Language (SAP) Reset appears second in a vertically-scrolling list of three options, just under Bluetooth Devices.\nPress OK on your remote to clear your last chosen audio language and go back to the default language setting.\nThe Audio Language Reset confirmation screen is displayed.",
   },
 ].forEach((contact) => {
   fakeContacts.create({
