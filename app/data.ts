@@ -102,7 +102,7 @@ export async function deleteContact(id: string) {
     last: "Xfinity",
     twitter: "https://helpwithapi.com/descriptions/XR11.txt",
     notes:
-      "To switch your Xfinity XR11 remote and X1 system to English, press the Xfinity button, navigate to the gear icon (Settings), select Language, choose Menu Language, then highlight and select English, and confirm with OK on the screen to apply changes./n/nAfter your project has been imported and deployed, all subsequent pushes to branches other than the production branch along with pull requests will generate Preview Deployments, and all changes made to the Production Branch (commonly \“main\”) will result in a Production Deployment.",
+      "To switch your Xfinity XR11 remote and X1 system to English, press the Xfinity button, navigate to the gear icon (Settings), select Language, choose Menu Language, then highlight and select English, and confirm with OK on the screen to apply changes.\n\nAfter your project has been imported and deployed, all subsequent pushes to branches other than the production branch along with pull requests will generate Preview Deployments, and all changes made to the Production Branch (commonly \“main\”) will result in a Production Deployment.",
   },
   {
     avatar: "https://helpwithapi.com/pictures/XR15.png",
